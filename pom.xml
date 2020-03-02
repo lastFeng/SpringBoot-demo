@@ -25,6 +25,7 @@
 		<module>soap-demo</module>
 		<module>circus-demo</module>
 		<module>spring-security-demo</module>
+		<module>simple-esper</module>
 	</modules>
 
 </project>
