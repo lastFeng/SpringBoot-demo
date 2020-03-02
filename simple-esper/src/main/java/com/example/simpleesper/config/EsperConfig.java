@@ -38,7 +38,7 @@ public class EsperConfig {
     public EPServiceProvider epServiceProvider() {
         com.espertech.esper.client.Configuration configuration = new com.espertech.esper.client.Configuration();
 
-        // add domain type
+        // add domain type and alias
         configuration.addEventType("person", PersonEvent.class);
 
         // EPServiceProvider init
