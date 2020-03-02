@@ -26,6 +26,7 @@
 		<module>circus-demo</module>
 		<module>spring-security-demo</module>
 		<module>simple-esper</module>
+		<module>websocket-demo</module>
 	</modules>
 
 </project>
