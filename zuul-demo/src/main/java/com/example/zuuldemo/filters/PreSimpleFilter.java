@@ -1,6 +1,5 @@
 package com.example.zuuldemo.filters;
 
-import com.apple.eawt.AppEvent;
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
