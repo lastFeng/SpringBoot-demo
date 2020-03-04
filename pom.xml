@@ -27,6 +27,7 @@
 		<module>spring-security-demo</module>
 		<module>simple-esper</module>
 		<module>websocket-demo</module>
+		<module>es-operation</module>
 	</modules>
 
 </project>
