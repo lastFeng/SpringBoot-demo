@@ -25,6 +25,7 @@ public interface UserService {
      * @return
      */
     @WebMethod
+    @WebResult(name = "User")
     public User getUser(@WebParam(name = "userId") String userId);
 
     @WebMethod

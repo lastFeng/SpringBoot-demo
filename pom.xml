@@ -28,6 +28,7 @@
 		<module>simple-esper</module>
 		<module>websocket-demo</module>
 		<module>es-operation</module>
+		<module>websocket-demo2</module>
 	</modules>
 
 </project>
